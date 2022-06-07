@@ -1,0 +1,17 @@
+  @import url('https://fonts.googleapis.com/css2?family=Cairo&family=Inspiration&family=Noto+Kufi+Arabic:wght@100;300&display=swap');
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+      }
+  html{
+    font-size: 10px;
+      }
+  body{
+    font-family: "roboto","arial", sans-serif;
+    color: aqua;
+      }
+
+
+
+  
